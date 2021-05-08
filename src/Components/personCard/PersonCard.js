@@ -12,7 +12,7 @@ const PersonCard = (props) => {
         <div className="card-div">
          
          <p className='text-gray'>{gender} . {nat}</p>
-         <h5>{name.title} {name.first} {name.last}</h5>
+         <h5 className='name-text'>{name.title} {name.first} {name.last}</h5>
          <p className='text-orange'>{email}</p>
 
        </div>

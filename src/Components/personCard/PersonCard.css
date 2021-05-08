@@ -7,14 +7,22 @@
 }
 .card-div:hover{
     background-color: #A259FF;
-    color: #fff !important;
+}
+.card-div:hover .text-gray{
+    color: #fff;
+}
+.card-div:hover .name-text{
+    color: #fff;
+}
+.card-div:hover .text-orange{
+    color: #fff;
 }
 .link{
     text-decoration: none;
     cursor: pointer;
     
 }
-.card-div h5{
+.name-text{
     color: #000;
 }
 .text-gray{
