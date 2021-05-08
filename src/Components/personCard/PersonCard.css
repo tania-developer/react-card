@@ -1,0 +1,25 @@
+.card-div{
+    background-color: #fff;
+    padding: 10px;
+    width: 270px;
+    margin: 15px;
+    border-radius: 5px;
+}
+.card-div:hover{
+    background-color: #A259FF;
+    color: #fff !important;
+}
+.link{
+    text-decoration: none;
+    cursor: pointer;
+    
+}
+.card-div h5{
+    color: #000;
+}
+.text-gray{
+    color: gray;
+}
+.text-orange{
+    color: #E16259;
+}
